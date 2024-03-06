@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/GenericAnimalClass/bin/Debug/net7.0/GenericAnimalClass
+/Users/tylerbreithaupt/Desktop/CIT195/GenericAnimalClass/bin/Debug/net7.0/GenericAnimalClass.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/GenericAnimalClass/bin/Debug/net7.0/GenericAnimalClass.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/GenericAnimalClass/bin/Debug/net7.0/GenericAnimalClass.dll
+/Users/tylerbreithaupt/Desktop/CIT195/GenericAnimalClass/bin/Debug/net7.0/GenericAnimalClass.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/GenericAnimalClass/obj/Debug/net7.0/GenericAnimalClass.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/GenericAnimalClass/obj/Debug/net7.0/GenericAnimalClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/GenericAnimalClass/obj/Debug/net7.0/GenericAnimalClass.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/GenericAnimalClass/obj/Debug/net7.0/GenericAnimalClass.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/GenericAnimalClass/obj/Debug/net7.0/GenericAnimalClass.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/GenericAnimalClass/obj/Debug/net7.0/GenericAnimalClass.dll
+/Users/tylerbreithaupt/Desktop/CIT195/GenericAnimalClass/obj/Debug/net7.0/refint/GenericAnimalClass.dll
+/Users/tylerbreithaupt/Desktop/CIT195/GenericAnimalClass/obj/Debug/net7.0/GenericAnimalClass.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/GenericAnimalClass/obj/Debug/net7.0/GenericAnimalClass.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/GenericAnimalClass/obj/Debug/net7.0/ref/GenericAnimalClass.dll
